@@ -3,5 +3,5 @@
 - interested in backend development, cloud infra, and distributed systems
 - currently at IBM, previously at AT&amp;T and DigiCert
 
-<a href="https://byuan.me/">website</a> · <a href="https://linkedin.com/in/brandonyuann">linkedin</a>
+<a href="mailto:brandonyuan05@gmail.com">email</a>   <a href="https://linkedin.com/in/brandonyuann">linkedin</a>   <a href="https://byuan.me/">website</a>
 </pre>
